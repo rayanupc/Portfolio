@@ -1,6 +1,6 @@
 <div align="center">
 
-# RAYAN's PORTFOLIO !
+# RAYAN's PORTFOLIO
 ### Cybersecurity Master's Student & intern Information Security Officer
 
 </div>
