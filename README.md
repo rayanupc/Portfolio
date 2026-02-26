@@ -14,7 +14,7 @@
 - **Tech:** Linux, SQL
 
 ### [Hacking chatbot](https://github.com/rayanupc/Hacking_LLM)
-- **Objective:** Bypass the ethics of an Ollama language model that allows you to refuse to answer hacking questions. 
+- **Objective:** Bypass the ethics of an Ollama language model that prevents it from answering questions related to hacking. 
 - **Key Learnings:** Concept of Abliteration and the application of AI to hacking
 - **Tech:** Python, Ollama.
 
